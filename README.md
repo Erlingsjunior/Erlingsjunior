@@ -10,7 +10,7 @@ faz toda a diferença.</P>
 <h4>🔭 Atualmente meu trabalho é me tornar um bom DEV!</h4>
 
 <ul>
-  <p>Coisas que eujá estou ficando bom</p>
+  <p>Coisas que eu já estou ficando bom</p>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>

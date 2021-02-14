@@ -7,7 +7,7 @@ faz toda a diferença.</P>
 
 <h3>Um pouco sobre mim</h3>
 
-<h4>🔭 Atualmente meu trabalho é me tornar um bom DEV!</h4>
+<h4>Estudante TRYBE com metade do curso concluído!</h4>
 
 <ul>
   <p>Coisas que eu já estou ficando bom</p>
@@ -22,14 +22,15 @@ faz toda a diferença.</P>
   <li>GIT</li>
   <li>Ambiente Linux</li>
   <li>RTL (REACT TEST LIBRARY)</li>
+  </ul></br>
+  <ul>
   <p>Coisas que estou estudando agora</p>
   <li>Redux</li>
   <li>SQL</li>
   <li>MongoDB</li>
   <li>Node.js</li>
-  
-  
-</ul></br>
+  </ul></br>
+
 <p>👯 Estou procurando fazer parte de uma Empresa,</p>
 <p>🤔 Que aceite bem e tenha uma politica para novatos.</p></br>
 <ul> 

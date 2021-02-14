@@ -10,7 +10,7 @@ faz toda a diferença.</P>
 <h4>🔭 Atualmente meu trabalho é me tornar um bom DEV!</h4>
 
 <ul>
-🌱 Estou aprendendo:</br>
+  <p>Coisas que eujá estou ficando bom</p>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
@@ -20,10 +20,18 @@ faz toda a diferença.</P>
   <li>SQL</li>
   <li>MongoDB</li>
   <li>Node.js</li>
+  <li>Trello</li>
+  <li>trabalho em equipe</li>
+  <li>Metodologias Ágeis</li>
+  <li>GIT</li>
+  <li>Ambiente Linux</li>
+  <li>RTL (REACT TEST LIBRARY)</li>
+  
 </ul></br>
 <p>👯 Estou procurando fazer parte de uma Empresa,</p>
 <p>🤔 Que aceite bem e tenha uma politica para novatos.</p></br>
-<ul> Você pode me achar aqui.
+<ul> 
+  <strong>Você pode me achar aqui:</strong>
   <li>💬 https://www.linkedin.com/in/erling-sriubas-junior-972696128/</li>
   <li>📫 tel: +55 11 970705347 / email: erlingjunior@gmail.com</li>
   </ul></br>

@@ -16,16 +16,18 @@ faz toda a diferença.</P>
   <li>JavaScript</li>
   <li>React.js</li>
   <li>Context/hooks</li>
-  <li>Redux</li>
-  <li>SQL</li>
-  <li>MongoDB</li>
-  <li>Node.js</li>
   <li>Trello</li>
   <li>trabalho em equipe</li>
   <li>Metodologias Ágeis</li>
   <li>GIT</li>
   <li>Ambiente Linux</li>
   <li>RTL (REACT TEST LIBRARY)</li>
+  <p>Coisas que estou estudando agora</p>
+  <li>Redux</li>
+  <li>SQL</li>
+  <li>MongoDB</li>
+  <li>Node.js</li>
+  
   
 </ul></br>
 <p>👯 Estou procurando fazer parte de uma Empresa,</p>

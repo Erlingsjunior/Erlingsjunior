@@ -7,28 +7,25 @@ Por isso se você for um recrutador e representa um lugar bacana em que você ac
 
 Um pouco sobre mim:
 
-- 🔭 Atualmente meu trabalho é me tornar um bom DEV!
+🔭 Atualmente meu trabalho é me tornar um bom DEV!
 
 <ul>🌱 Estou aprendendo:
-  <li>HTML<li>
-  <li>CSS<li>
-  <li>JavaScript<li>
-  <li>React.js<li>
-  <li>Context/hooks<li>
-  <li>Redux<li>
-  <li>SQL<li>
-  <li>MongoDB<li>
-  <li>Node.js<li>
-<ul>
-
-👯 Estou procurando fazer parte de uma Empresa,
-🤔 Que aceite bem e tenha uma politica para novatos.
-
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>Context/hooks</li>
+  <li>Redux</li>
+  <li>SQL</li>
+  <li>MongoDB</li>
+  <li>Node.js</li>
+</ul></br>
+<p>👯 Estou procurando fazer parte de uma Empresa,</p>
+<p>🤔 Que aceite bem e tenha uma politica para novatos.</p></br>
 <ul> Você pode me achar aqui.
-  <li>💬 https://www.linkedin.com/in/erling-sriubas-junior-972696128/<li>
-  <li>📫 tel: +55 11 970705347 / email: erlingjunior@gmail.com<li>
-<ul>
-
+  <li>💬 https://www.linkedin.com/in/erling-sriubas-junior-972696128/</li>
+  <li>📫 tel: +55 11 970705347 / email: erlingjunior@gmail.com</li>
+  </ul></br>
 <strong>⚡ Uma curiosidade sobre mim, é que se eu durmo com os pés gelados
-  tenho pesadelos horriveis e acordo desesperado! hahah<strong>
+  tenho pesadelos horriveis e acordo desesperado! aoskpaoksapoksap</strong>
 

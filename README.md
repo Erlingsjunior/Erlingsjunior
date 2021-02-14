@@ -1,15 +1,16 @@
-Tudo bem?
+<h1>Tudo bem?</h1>
 
-Nessa página você vai encontrar um pouco sobre meus estudos e os projetos, (individuais  ou em grupo) que tenho feito.
+<p>Nessa página você vai encontrar um pouco sobre meus estudos e os projetos, (individuais  ou em grupo) que tenho feito.
 A vida de desenvolvedor não é fácil, temos muita coisa para aprender não é mesmo? E ter um lugar para colocar em pratica
-faz toda a diferença.
-Por isso se você for um recrutador e representa um lugar bacana em que você acredita, pode ser que eu acredite nele também!
+faz toda a diferença.</P>
+<p>Por isso se você for um recrutador e representa um lugar bacana em que você acredita, pode ser que eu acredite nele também!</p>
 
-Um pouco sobre mim:
+<h3>Um pouco sobre mim</h3>
 
-🔭 Atualmente meu trabalho é me tornar um bom DEV!
+<h4>🔭 Atualmente meu trabalho é me tornar um bom DEV!</h4>
 
-<ul>🌱 Estou aprendendo:
+<ul>
+🌱 Estou aprendendo:</br>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>

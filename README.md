@@ -1,13 +1,14 @@
 <h1>Tudo bem?</h1>
 
-<p>Nessa página você vai encontrar um pouco sobre meus estudos e os projetos, (individuais  ou em grupo) que tenho feito.
-A vida de desenvolvedor não é fácil, temos muita coisa para aprender não é mesmo? E ter um lugar para colocar em pratica
-faz toda a diferença.</P>
+<p>Iniciei minha transição de carreia em 2019, procurando os melhores cursos para aprender tecnologia. Estudei Lógica de programação, HTML5, CSS3 e javascript na IMPACTA. Depois disso, percebi a necessidade de uma formação mais abrangente e profunda. Por isso, atualmente sou estudante da TRYBE, onde tenho participado de uma formação altamente qualificada, e desenvolvo minhas Hard e Soft Skills.
+
+Dedico-me estudando código, mas também atuando diariamente em um ambiente de desenvolvimento real, realizando projetos semanais entregues pelo git, realizando code Review, projetos em grupo, métodos ágeis, kanban, trello, definindo os desafios a serem superados em cada atividade, participando de daily meetings, informando impedimentos e contribuindo para um bom trabalho em equipe.
+
+Essa experiência de aprendizado me tornou mais do que um aluno comum, mas sim, um aluno com experiência prática em demandas exigidas pelo mercado de trabalho. Por isso,  para um próximo desafio, julgo estar apto para começar minha carreira com desenvolvimento de alto desempenho..</P>
+
 <p>Por isso se você for um recrutador e representa um lugar bacana em que você acredita, pode ser que eu acredite nele também!</p>
 
 <h3>Um pouco sobre mim</h3>
-
-<h4>Estudante TRYBE com metade do curso concluído!</h4>
 
 <ul>
   <p>Coisas que eu já estou ficando bom</p>
@@ -31,13 +32,13 @@ faz toda a diferença.</P>
   <li>Node.js</li>
   </ul></br>
 
-<p>👯 Estou procurando fazer parte de uma Empresa,</p>
-<p>🤔 Que aceite bem e tenha uma politica para novatos.</p></br>
+<p>👯 Times que são orientados a pessoas, porque a tecnologia sem gente, não é nada.</p>
+<p>🤔 Um ambiente favorável ao crescimento pessoal e profissional.</p></br>
 <ul> 
   <strong>Você pode me achar aqui:</strong>
   <li>💬 https://www.linkedin.com/in/erling-sriubas-junior-972696128/</li>
   <li>📫 tel: +55 11 970705347 / email: erlingjunior@gmail.com</li>
   </ul></br>
-<strong>⚡ Uma curiosidade sobre mim, é que se eu durmo com os pés gelados
-  tenho pesadelos horriveis e acordo desesperado! aoskpaoksapoksap</strong>
+<strong>⚡ Uma curiosidade sobre mim, é que se eu destou desenvolvendo um aplicativo para ajudar exclusivamentes os pequenos comerciantes
+camado blimey!</strong>
 

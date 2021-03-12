@@ -39,6 +39,6 @@ Essa experiência de aprendizado me tornou mais do que um aluno comum, mas sim, 
   <li>💬 https://www.linkedin.com/in/erling-sriubas-junior-972696128/</li>
   <li>📫 tel: +55 11 970705347 / email: erlingjunior@gmail.com</li>
   </ul></br>
-<strong>⚡ Uma curiosidade sobre mim, é que se eu destou desenvolvendo um aplicativo para ajudar exclusivamentes os pequenos comerciantes
-camado blimey!</strong>
+<strong>⚡ Uma curiosidade sobre mim, é que se eu destou desenvolvendo uma aplicação web para ajudar exclusivamentes os pequenos comerciantes
+chamado blimey!</strong>
 

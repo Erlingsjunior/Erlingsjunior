@@ -11,7 +11,7 @@ Essa experiência de aprendizado me tornou mais do que um aluno comum, mas sim, 
 <h3>Um pouco sobre mim</h3>
 
 <ul>
-  <p>Coisas que eu já estou ficando bom</p>
+  <p>Coisas que eu mando bem!</p>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
@@ -25,7 +25,7 @@ Essa experiência de aprendizado me tornou mais do que um aluno comum, mas sim, 
   <li>RTL (REACT TEST LIBRARY)</li>
   </ul></br>
   <ul>
-  <p>Coisas que estou estudando agora</p>
+  <p>Coisas que estou no processo</p>
   <li>Redux</li>
   <li>SQL</li>
   <li>MongoDB</li>

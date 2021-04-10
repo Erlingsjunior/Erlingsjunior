@@ -1,6 +1,6 @@
 <h1>Tudo bem?</h1>
 
-<p>Iniciei minha transição de carreia em 2019, procurando os melhores cursos para aprender tecnologia. Estudei Lógica de programação, HTML5, CSS3 e javascript na IMPACTA. Depois disso, percebi a necessidade de uma formação mais abrangente e profunda. Por isso, atualmente sou estudante da TRYBE, onde tenho participado de uma formação altamente qualificada, e desenvolvo minhas Hard e Soft Skills.
+<p>Iniciei minha transição de carreia no começo de 2019, procurando os melhores cursos para aprender tecnologia. Estudei Lógica de programação, HTML5, CSS3 e javascript na IMPACTA. Depois disso, percebi a necessidade de uma formação mais abrangente e profunda. Por isso, atualmente sou estudante da TRYBE, onde tenho participado de uma formação altamente qualificada, e desenvolvo minhas Hard e Soft Skills.
 
 Dedico-me estudando código, mas também atuando diariamente em um ambiente de desenvolvimento real, realizando projetos semanais entregues pelo git, realizando code Review, projetos em grupo, métodos ágeis, kanban, trello, definindo os desafios a serem superados em cada atividade, participando de daily meetings, informando impedimentos e contribuindo para um bom trabalho em equipe.
 

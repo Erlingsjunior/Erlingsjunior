@@ -18,7 +18,7 @@ Essa experiência de aprendizado me tornou mais do que um aluno comum, mas sim, 
   <li>React.js</li>
   <li>Context/hooks</li>
   <li>Trello</li>
-  <li>trabalho em equipe</li>
+  <li>Trabalho em equipe</li>
   <li>Metodologias Ágeis</li>
   <li>GIT</li>
   <li>Ambiente Linux</li>
@@ -30,6 +30,7 @@ Essa experiência de aprendizado me tornou mais do que um aluno comum, mas sim, 
   <li>SQL</li>
   <li>MongoDB</li>
   <li>Node.js</li>
+  <li>Express</li>
   </ul></br>
 
 <p>👯 Times que são orientados a pessoas, porque a tecnologia sem gente, não é nada.</p>

@@ -11,17 +11,18 @@ Tive a oportunidade (e estou tendo) de trabalhar com pessoas incríveis em proje
 Fluência em React;
 
 <ul>
-  <li>• Vivência com desenvolvimento de aplicações SPA.</li>
-<li>• Vivência com automação de testes utilizando ferramentas como Jest, React Testing Library and etc;</li>
-<li>• Vivência com gerenciadores de estado (Redux) ou React Context;</li>
-<li>• Vivência com CSS-in-JS(Styled Components);</li>
-<li>• Vivência com a biblioteca storybook;</li>
-<li>• Vivência com React Hooks;</li>
-<li>• Boa modularização e reuso de código;</li>
-<li>• Conhecimento em utilização de APIs Rest;</li>
-<li>• Conhecimento em ES6;</li>
-<li>• Conhecimento sobre criação e desenvolvimento de design systems;</li>
-<li>• Conhecimento sobre versionamento com Git.</li>
+  <li>Vivência com desenvolvimento de aplicações SPA.</li>
+<li>Vivência com automação de testes utilizando ferramentas como Jest, React Testing Library and etc;</li>
+<li>Vivência com gerenciadores de estado (Redux) ou React Context;</li>
+<li>Vivência com CSS-in-JS(Styled Components);</li>
+<li> Vivência em Material UI </li>
+<li>Vivência com a biblioteca storybook;</li>
+<li>Vivência com React Hooks;</li>
+<li>Boa modularização e reuso de código;</li>
+<li>Conhecimento em utilização de APIs Rest;</li>
+<li>Conhecimento em ES6;</li>
+<li>Conhecimento sobre criação e desenvolvimento de design systems;</li>
+<li>Conhecimento sobre versionamento com Git.</li>
 </ul>
 
 

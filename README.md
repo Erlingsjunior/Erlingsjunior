@@ -4,7 +4,7 @@
 
 Dedico-me estudando código, mas também atuando diariamente em um ambiente de desenvolvimento real, realizando projetos semanais entregues pelo git, realizando code Review, projetos em grupo, métodos ágeis, kanban, trello, definindo os desafios a serem superados em cada atividade, participando de daily meetings, informando impedimentos e contribuindo para um bom trabalho em equipe.
 
-Tive a oportunidade (e estou tendo) de trabalhar com pessoas incríveis em projetos sensacionais, atualmente sou o lider de frontend em um projeto de transformação digital na Portobello.
+Tive a oportunidade (e estou tendo) de trabalhar com pessoas incríveis em projetos sensacionais, atualmente sou o manager frontend em um projeto de transformação digital na Portobello.
 
 <h3>Um pouco sobre mim</h3>
 

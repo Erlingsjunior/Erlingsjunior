@@ -31,7 +31,7 @@ Fluência em React;
 <ul> 
   <strong>Você pode me achar aqui:</strong>
   <li>💬 https://www.linkedin.com/in/erling-sriubas-junior-972696128/</li>
-  <li>📫 tel: +55 11 970705347 / email: erlingjunior@gmail.com</li>
+  <li>📫 tel: +55 11 995682825 / email: erlingjunior@gmail.com</li>
   </ul></br>
 <strong>⚡ Uma curiosidade sobre mim, é que se eu destou desenvolvendo uma aplicação web para ajudar exclusivamentes os pequenos comerciantes
 chamado blimey!</strong>

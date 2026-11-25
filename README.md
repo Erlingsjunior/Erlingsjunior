@@ -19,7 +19,7 @@ Sou **Senior Frontend Developer**, especialista em **arquitetura frontend** e **
 
 Hoje eu trabalho com **IA como parte do time**. Uso agentes de código como par de programação no dia a dia, e o papel de quem decide continua sendo meu: eu defino a arquitetura, reviso cada mudança, corrijo, refatoro e só aceito o que passa nos portões de qualidade. O resultado é velocidade de equipe com o critério de um sênior.
 
-Antes do código foram **10 anos como chef de cozinha**. Trago de lá a precisão, a gestão sob pressão e o *mise en place*: disciplina, organização e zero desperdício, que é exatamente como trato um repositório.
+São **mais de 10 anos como desenvolvedor**, e antes deles vieram **mais de 10 anos como cozinheiro**. Trouxe de lá a precisão, a gestão sob pressão e o *mise en place*: disciplina, organização e zero desperdício, que é exatamente como trato um repositório.
 
 ---
 

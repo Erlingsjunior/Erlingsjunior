@@ -1,0 +1,32 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='840' height='300' viewBox='0 0 840 300' role='img' aria-label='Registros por semana no KARMIKA'>
+<rect x='0.5' y='0.5' width='839' height='299' rx='12' fill='#0d1117' stroke='#30363d'/>
+<text x='24' y='32' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#e6edf3'>KARMIKA: registros por semana na branch main</text>
+<text x='24' y='50' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#9198a1'>Do primeiro registro (24/10) a 24/11/2026. A última semana ainda está em andamento.</text>
+<line x1='56' x2='816' y1='244.0' y2='244.0' stroke='#21262d' stroke-width='1'/>
+<text x='48' y='248.0' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#9198a1'>0</text>
+<line x1='56' x2='816' y1='184.0' y2='184.0' stroke='#21262d' stroke-width='1'/>
+<text x='48' y='188.0' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#9198a1'>100</text>
+<line x1='56' x2='816' y1='124.0' y2='124.0' stroke='#21262d' stroke-width='1'/>
+<text x='48' y='128.0' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#9198a1'>200</text>
+<line x1='56' x2='816' y1='64.0' y2='64.0' stroke='#21262d' stroke-width='1'/>
+<text x='48' y='68.0' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#9198a1'>300</text>
+<path d='M87.7,244 V218.6 Q87.7,214.6 91.7,214.6 H147.0 Q151.0,214.6 151.0,218.6 V244 Z' fill='#c08c28'><title>24–25 out: 49 registros</title></path>
+<text x='119.3' y='206.6' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#e6edf3'>49</text>
+<text x='119.3' y='264.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9198a1'>24–25 out</text>
+<path d='M214.3,244 V164.6 Q214.3,160.6 218.3,160.6 H273.7 Q277.7,160.6 277.7,164.6 V244 Z' fill='#c08c28'><title>26 out–1 nov: 139 registros</title></path>
+<text x='246.0' y='152.6' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#e6edf3'>139</text>
+<text x='246.0' y='264.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9198a1'>26 out–1 nov</text>
+<path d='M341.0,244 V136.4 Q341.0,132.4 345.0,132.4 H400.3 Q404.3,132.4 404.3,136.4 V244 Z' fill='#c08c28'><title>2–8 nov: 186 registros</title></path>
+<text x='372.7' y='124.4' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#e6edf3'>186</text>
+<text x='372.7' y='264.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9198a1'>2–8 nov</text>
+<path d='M467.7,244 V90.8 Q467.7,86.8 471.7,86.8 H527.0 Q531.0,86.8 531.0,90.8 V244 Z' fill='#c08c28'><title>9–15 nov: 262 registros</title></path>
+<text x='499.3' y='78.8' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#e6edf3'>262</text>
+<text x='499.3' y='264.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9198a1'>9–15 nov</text>
+<path d='M594.3,244 V214.4 Q594.3,210.4 598.3,210.4 H653.7 Q657.7,210.4 657.7,214.4 V244 Z' fill='#c08c28'><title>16–22 nov: 56 registros</title></path>
+<text x='626.0' y='202.4' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#e6edf3'>56</text>
+<text x='626.0' y='264.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9198a1'>16–22 nov</text>
+<path d='M721.0,244 V227.6 Q721.0,223.6 725.0,223.6 H780.3 Q784.3,223.6 784.3,227.6 V244 Z' fill='#5c4a26'><title>23–24 nov: 34 registros (semana em andamento)</title></path>
+<text x='752.7' y='215.6' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#e6edf3'>34</text>
+<text x='752.7' y='264.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9198a1'>23–24 nov *</text>
+<line x1='56' x2='816' y1='244' y2='244' stroke='#9198a1' stroke-width='1'/>
+</svg>

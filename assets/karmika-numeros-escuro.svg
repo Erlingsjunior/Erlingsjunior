@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='840' height='132' viewBox='0 0 840 132' role='img' aria-label='KARMIKA em números'>
+<rect x='0.5' y='0.5' width='839' height='131' rx='12' fill='#0d1117' stroke='#30363d'/>
+<rect x='16.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#21262d'/>
+<rect x='30.0' y='30' width='22' height='4' rx='2' fill='#c08c28'/>
+<text x='30.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#e6edf3'>726</text>
+<text x='30.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#9198a1'>registros em 32 dias</text>
+<rect x='180.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#21262d'/>
+<rect x='194.0' y='30' width='22' height='4' rx='2' fill='#c08c28'/>
+<text x='194.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#e6edf3'>98%</text>
+<text x='194.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#9198a1'>feitos em par com IA</text>
+<rect x='344.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#21262d'/>
+<rect x='358.0' y='30' width='22' height='4' rx='2' fill='#c08c28'/>
+<text x='358.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#e6edf3'>57 mil</text>
+<text x='358.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#9198a1'>linhas de TypeScript</text>
+<rect x='508.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#21262d'/>
+<rect x='522.0' y='30' width='22' height='4' rx='2' fill='#c08c28'/>
+<text x='522.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#e6edf3'>1.721</text>
+<text x='522.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#9198a1'>missões escritas</text>
+<rect x='672.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#21262d'/>
+<rect x='686.0' y='30' width='22' height='4' rx='2' fill='#c08c28'/>
+<text x='686.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#e6edf3'>4</text>
+<text x='686.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#9198a1'>idiomas no livro</text>
+</svg>

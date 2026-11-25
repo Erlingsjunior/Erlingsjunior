@@ -1,0 +1,45 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='840' height='300' viewBox='0 0 840 300' role='img' aria-label='Registros por mês no app da Tagged'>
+<rect x='0.5' y='0.5' width='839' height='299' rx='12' fill='#ffffff' stroke='#d1d9e0'/>
+<text x='24' y='32' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#1f2328'>Tagged: registros por mês no app</text>
+<text x='24' y='50' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#59636e'>Todas as branches, de agosto de 2025 a setembro de 2026.</text>
+<line x1='56' x2='816' y1='236.0' y2='236.0' stroke='#e6eaef' stroke-width='1'/>
+<text x='48' y='240.0' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>0</text>
+<line x1='56' x2='816' y1='178.7' y2='178.7' stroke='#e6eaef' stroke-width='1'/>
+<text x='48' y='182.7' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>40</text>
+<line x1='56' x2='816' y1='121.3' y2='121.3' stroke='#e6eaef' stroke-width='1'/>
+<text x='48' y='125.3' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>80</text>
+<line x1='56' x2='816' y1='64.0' y2='64.0' stroke='#e6eaef' stroke-width='1'/>
+<text x='48' y='68.0' text-anchor='end' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>120</text>
+<path d='M66.9,236 V238.6 Q66.9,234.6 70.9,234.6 H95.4 Q99.4,234.6 99.4,238.6 V236 Z' fill='#c2410c'><title>ago: 1 registros</title></path>
+<text x='83.1' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>ago</text>
+<path d='M121.1,236 V222.8 Q121.1,218.8 125.1,218.8 H149.7 Q153.7,218.8 153.7,222.8 V236 Z' fill='#c2410c'><title>set: 12 registros</title></path>
+<text x='137.4' y='210.8' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#1f2328'>12</text>
+<text x='137.4' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>set</text>
+<text x='191.7' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>out</text>
+<text x='246.0' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>nov</text>
+<text x='300.3' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>dez</text>
+<path d='M338.3,236 V112.4 Q338.3,108.4 342.3,108.4 H366.9 Q370.9,108.4 370.9,112.4 V236 Z' fill='#c2410c'><title>jan: 89 registros</title></path>
+<text x='354.6' y='100.4' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#1f2328'>89</text>
+<text x='354.6' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>jan</text>
+<path d='M392.6,236 V230.0 Q392.6,226.0 396.6,226.0 H421.1 Q425.1,226.0 425.1,230.0 V236 Z' fill='#c2410c'><title>fev: 7 registros</title></path>
+<text x='408.9' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>fev</text>
+<path d='M446.9,236 V235.7 Q446.9,231.7 450.9,231.7 H475.4 Q479.4,231.7 479.4,235.7 V236 Z' fill='#c2410c'><title>mar: 3 registros</title></path>
+<text x='463.1' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>mar</text>
+<path d='M501.1,236 V230.0 Q501.1,226.0 505.1,226.0 H529.7 Q533.7,226.0 533.7,230.0 V236 Z' fill='#c2410c'><title>abr: 7 registros</title></path>
+<text x='517.4' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>abr</text>
+<text x='571.7' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>mai</text>
+<path d='M609.7,236 V231.4 Q609.7,227.4 613.7,227.4 H638.3 Q642.3,227.4 642.3,231.4 V236 Z' fill='#c2410c'><title>jun: 6 registros</title></path>
+<text x='626.0' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>jun</text>
+<path d='M664.0,236 V182.7 Q664.0,178.7 668.0,178.7 H692.6 Q696.6,178.7 696.6,182.7 V236 Z' fill='#c2410c'><title>jul: 40 registros</title></path>
+<text x='680.3' y='170.7' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#1f2328'>40</text>
+<text x='680.3' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>jul</text>
+<path d='M718.3,236 V128.2 Q718.3,124.2 722.3,124.2 H746.9 Q750.9,124.2 750.9,128.2 V236 Z' fill='#c2410c'><title>ago: 78 registros</title></path>
+<text x='734.6' y='116.2' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#1f2328'>78</text>
+<text x='734.6' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>ago</text>
+<path d='M772.6,236 V93.8 Q772.6,89.8 776.6,89.8 H801.1 Q805.1,89.8 805.1,93.8 V236 Z' fill='#c2410c'><title>set: 102 registros</title></path>
+<text x='788.9' y='81.8' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#1f2328'>102</text>
+<text x='788.9' y='254.0' text-anchor='middle' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#59636e'>set</text>
+<text x='60.0' y='272.0' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' font-weight='600' fill='#1f2328'>2025</text>
+<text x='331.4' y='272.0' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' font-weight='600' fill='#1f2328'>2026</text>
+<line x1='56' x2='816' y1='236' y2='236' stroke='#59636e' stroke-width='1'/>
+</svg>

@@ -170,6 +170,22 @@ Sou fundador e CEO da **[Tagged](https://www.apptagged.com)**, uma plataforma qu
 - 🌐 **Site:** [apptagged.com](https://www.apptagged.com)
 - 📱 **App:** mapa geolocalizado de tags, denúncia com identidade protegida, selos, conquistas e IA a serviço da causa
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tagged-numeros-escuro.svg">
+    <img src="assets/tagged-numeros-claro.svg" alt="Tagged em números: 345 registros no app, 14 meses de histórico, 51% feitos em par com IA, 59 registros na landing, 9 branches de trabalho" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tagged-meses-escuro.svg">
+    <img src="assets/tagged-meses-claro.svg" alt="Registros por mês no app da Tagged, de agosto de 2025 a setembro de 2026: 1, 12, 0, 0, 0, 89, 7, 3, 7, 0, 6, 40, 78 e 102" width="100%">
+  </picture>
+</div>
+
 ---
 
 ## 📚 Autor
@@ -199,6 +215,6 @@ Escrevi **"O Esquecido — Entre a Luz e as Sombras"**, uma saga de fantasia que
 
   ⭐ Se curtiu meu trabalho, deixa uma estrela nos projetos!
 
-  <sub>Gráficos gerados por <code>scripts/graficos.py</code> com números conferidos no repositório do KARMIKA em 24/11/2026.</sub>
+  <sub>Gráficos gerados por <code>scripts/graficos.py</code> com números conferidos nos repositórios do KARMIKA (24/11/2026) e da Tagged (25/11/2026).</sub>
 
 </div>

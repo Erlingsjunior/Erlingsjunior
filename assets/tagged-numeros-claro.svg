@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='840' height='132' viewBox='0 0 840 132' role='img' aria-label='Tagged em números'>
+<rect x='0.5' y='0.5' width='839' height='131' rx='12' fill='#ffffff' stroke='#d1d9e0'/>
+<rect x='16.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#e6eaef'/>
+<rect x='30.0' y='30' width='22' height='4' rx='2' fill='#c2410c'/>
+<text x='30.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#1f2328'>345</text>
+<text x='30.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#59636e'>registros no app</text>
+<rect x='180.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#e6eaef'/>
+<rect x='194.0' y='30' width='22' height='4' rx='2' fill='#c2410c'/>
+<text x='194.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#1f2328'>14</text>
+<text x='194.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#59636e'>meses de histórico</text>
+<rect x='344.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#e6eaef'/>
+<rect x='358.0' y='30' width='22' height='4' rx='2' fill='#c2410c'/>
+<text x='358.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#1f2328'>51%</text>
+<text x='358.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#59636e'>feitos em par com IA</text>
+<rect x='508.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#e6eaef'/>
+<rect x='522.0' y='30' width='22' height='4' rx='2' fill='#c2410c'/>
+<text x='522.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#1f2328'>59</text>
+<text x='522.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#59636e'>registros na landing</text>
+<rect x='672.0' y='16' width='152.0' height='100' rx='8' fill='none' stroke='#e6eaef'/>
+<rect x='686.0' y='30' width='22' height='4' rx='2' fill='#c2410c'/>
+<text x='686.0' y='72' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='30' font-weight='700' fill='#1f2328'>9</text>
+<text x='686.0' y='96' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='12.5' fill='#59636e'>branches de trabalho</text>
+</svg>
